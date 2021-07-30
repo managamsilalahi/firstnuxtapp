@@ -1,0 +1,2 @@
+# firstnuxtapp
+First Nuxt app
